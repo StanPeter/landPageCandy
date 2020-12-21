@@ -1,3 +1,9 @@
-A land page using some html, css, bootstrap4
+Information:
 
-Feel free to use in whatever way you want
+    A simple land page using html5, css3 and bootstrap4
+
+
+
+Instructions:
+
+    1. Open index.html inside your browser
